@@ -92,3 +92,13 @@ footer{
   text-align: center;
   margin: 2%;
 }
+
+.content{
+  margin: 2% 10% 2% 10%;
+  padding: 20px 0 20px 0;
+}
+
+.content h1{
+  font-size: 40px;
+  text-align: center;
+}
