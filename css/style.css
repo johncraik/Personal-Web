@@ -18,8 +18,66 @@ header{
 }
 
 /* -- NAVIGATION: --*/
+.navbar{
+  text-align: center;
+  margin: 2%;
+  clear: both;
+  overflow: hidden;
+}
 
+.navbar a{
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
 
+  float: left;
+  width: 19%;
+  margin: 0.5%;
+}
+
+.navbar a:hover{
+  color: #3d83b3;
+  font-weight: 600;
+}
+
+.nav-drop{
+  float: left;
+  width: 19%;
+  margin: 0.5%;
+}
+
+.nav-drop a{
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+
+  float: left;
+  width: 100%;
+  padding: 1%;
+}
+
+.nav-list{
+  display: none;
+  position: absolute;
+}
+
+.nav-list a{
+  font-size: 15px;
+  font-weight: 200;
+  text-align: center;
+  float: none;
+  display: block;
+  text-decoration: none;
+  color: #ffffff;
+  margin: 0;
+}
+
+.nav-drop:hover .nav-list{
+  display: contents;
+  text-align: center;
+}
 
 /* -- CLASSES: -- */
 .title-block{
