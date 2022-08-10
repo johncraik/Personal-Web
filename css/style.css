@@ -12,6 +12,8 @@ body{
 }
 
 header{
+  background-image: url('../img/header.jpg');
+  background-size: cover;
   background-color: #000000;
   padding: 10px;
   border-bottom: solid 10px #3d83b3;
