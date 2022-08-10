@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
+/* -- MAIN: --*/
 body{
   width: 100%;
   font: 15px/1.6 'Roboto Mono';
@@ -15,6 +16,10 @@ header{
   padding: 10px;
   border-bottom: solid 10px #3d83b3;
 }
+
+/* -- NAVIGATION: --*/
+
+
 
 /* -- CLASSES: -- */
 .title-block{
