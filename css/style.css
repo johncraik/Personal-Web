@@ -102,3 +102,18 @@ footer{
   font-size: 40px;
   text-align: center;
 }
+
+.grid{
+  overflow: hidden;
+}
+
+.box{
+  float: left;
+  width: 32%;
+  margin: 0.666%;
+}
+
+.box h2{
+  text-align: center;
+  font-size: 26px;
+}
