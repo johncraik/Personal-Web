@@ -109,11 +109,16 @@ footer{
 }
 
 .content{
-  margin: 2% 10% 2% 10%;
+  margin: 2% 10% 5% 10%;
+}
+
+.content h2{
+  margin: 5% 0 0 0;
+  text-shadow: 2px 2px #000000;
 }
 
 .heading{
-  margin: 5% 0 2% 0;
+  margin: 8% 0 2% 0;
   padding: 5px 0 5px 0;
   background-color: #596473;
   width: 100%;
@@ -121,7 +126,16 @@ footer{
   border-bottom: solid 10px #7bae7f;
 }
 
-.heading h1{
+.heading-top{
+    margin: 2% 0 2% 0;
+    padding: 5px 0 5px 0;
+    background-color: #596473;
+    width: 100%;
+    border-top: solid 10px #7bae7f;
+    border-bottom: solid 10px #7bae7f;
+}
+
+.heading h1, .heading-top h1{
   font-size: 45px;
   text-align: center;
   text-shadow: 2px 2px #2f353d;
