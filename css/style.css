@@ -24,6 +24,16 @@ header h1{
     text-transform: uppercase;
 }
 
+a{
+  text-decoration: none;
+  color: #3d83b3;
+}
+
+a:hover{
+  color: #7bae7f;
+  font-weight: 900;
+}
+
 footer{
   text-align: center;
   border-top: solid 50px #3d83b3;
