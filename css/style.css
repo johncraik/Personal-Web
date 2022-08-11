@@ -95,10 +95,18 @@ footer{
 
 .content{
   margin: 2% 10% 2% 10%;
-  padding: 20px 0 20px 0;
 }
 
-.content h1{
+.heading{
+  margin: 5% 0 2% 0;
+  padding: 5px 0 5px 0;
+  background-color: #596473;
+  width: 100%;
+  border-top: solid 10px #7bae7f;
+  border-bottom: solid 10px #7bae7f;
+}
+
+.heading h1{
   font-size: 40px;
   text-align: center;
 }
@@ -108,12 +116,12 @@ footer{
 }
 
 .box{
+  text-align: center;
   float: left;
   width: 32%;
   margin: 0.666%;
 }
 
 .box h2{
-  text-align: center;
   font-size: 26px;
 }
