@@ -3,7 +3,7 @@
 /* -- MAIN: --*/
 body{
   width: 100%;
-  font: 15px/1.6 'Roboto Mono';
+  font: 16px/1.6 'Roboto Mono';
   padding: 0;
   margin: 0;
 
@@ -21,6 +21,7 @@ header{
 
 header h1{
     text-shadow: 5px 5px #2f353d;
+    text-transform: uppercase;
 }
 
 footer{
@@ -37,7 +38,7 @@ footer{
 }
 
 .navbar a{
-  font-size: 20px;
+  font-size: 23px;
   font-weight: 400;
   color: #ffffff;
   text-align: center;
@@ -75,7 +76,7 @@ footer{
 }
 
 .nav-list a{
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 200;
   text-align: center;
   float: none;
@@ -92,7 +93,7 @@ footer{
 
 /* -- CLASSES: -- */
 .title-block{
-  font-size: 45px;
+  font-size: 60px;
   text-align: center;
   margin: 2%;
 }
@@ -111,7 +112,7 @@ footer{
 }
 
 .heading h1{
-  font-size: 40px;
+  font-size: 45px;
   text-align: center;
   text-shadow: 2px 2px #2f353d;
 }
@@ -130,5 +131,5 @@ footer{
 }
 
 .box h2{
-  font-size: 26px;
+  font-size: 30px;
 }
