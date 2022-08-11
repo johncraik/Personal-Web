@@ -118,8 +118,10 @@ footer{
 .box{
   text-align: center;
   float: left;
-  width: 32%;
-  margin: 0.666%;
+  width: 31.4455%;
+  margin: 0.5%;
+
+  border: solid 5px #167779;
 }
 
 .box h2{
